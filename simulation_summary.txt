@@ -1,0 +1,20 @@
+Simulation completed in 20 steps.
+
+Drone 0 Success Rate: 0.50 (10/20)
+Drone 1 Success Rate: 0.00 (0/20)
+Drone 2 Success Rate: 0.50 (10/20)
+
+Jamming Log:
+Step 4: Drone 0 jammed at (5, 4)
+Step 5: Drone 2 jammed at (3, 3)
+Step 7: Drone 0 jammed at (5, 4)
+Step 7: Drone 1 jammed at (2, 1)
+Step 8: Drone 0 jammed at (5, 4)
+Step 12: Drone 0 jammed at (5, 4)
+Step 14: Drone 0 jammed at (5, 4)
+Step 16: Drone 1 jammed at (1, 4)
+Step 17: Drone 0 jammed at (5, 4)
+Step 18: Drone 1 jammed at (3, 3)
+Step 19: Drone 0 jammed at (5, 4)
+Step 19: Drone 1 jammed at (3, 3)
+Step 20: Drone 0 jammed at (5, 4)
