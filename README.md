@@ -17,7 +17,7 @@ This project simulates a swarm of drones navigating a grid environment while avo
 
 ## 🎥 Demo
 
-![Simulation Grid](images/figure1.png)
+![Simulation Grid](figure1.png)
 
 Watch the simulation video:
 [▶️ Click here to watch](https://youtu.be/_WEqW5wRX18)
